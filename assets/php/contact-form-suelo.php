@@ -4,7 +4,7 @@
 	$email = trim($_POST['email']);
 	$message = trim($_POST['message']);
 	
-	$emailTo = 'naman@outlook.in'; //Put your own email address here
+	$emailTo = 'manojitsoft@hotmail.com'; //Put your own email address here
 	$subject = 'Question about Ja.';
 	$body = "Name: $name \n\nEmail: $email \n\nMessage:\n$message";
 	$headers = 'From: '.$email."\r\n" .
