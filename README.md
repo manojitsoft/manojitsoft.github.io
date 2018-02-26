@@ -1,2 +1,2 @@
-# hereisnaman.github.io
+# manojkumar.github.io
 Personal resume website
